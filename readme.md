@@ -1,14 +1,8 @@
 Let's start using markdown
 ==========================
 
-Hi everyone, I am trying to use markdown now.
+Hi everyone, I am learning to use markdown, writting it directly from the terminal with the GNU nano.
 
-This should be a subtitle
--------------------------
+## Why markdown?
 
-# This should be an h1
-## This should be an H2
-### This should be an H3
-#### This should be an H4
-
-This is plain text.
+It makes sense to use this formatting syntax since it can be read in raw mode. If processed, things will look nicer, but you can always read them.
