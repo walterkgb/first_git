@@ -24,4 +24,9 @@ A code block needs 3 backticks at the beginning and at the end.
 
 [This is a neat cheatsheet with the most common styles](https://commonmark.org/help/)
 
-[The GitHub flavored Markdown Spec](https://github.github.com/gfm/) is an amazing document, an example on how to write a specification.o
+[The GitHub flavored Markdown Spec](https://github.github.com/gfm/) is an amazing document, an example on how to write a specification.
+
+I couldn't resist to add the [Emoji-cheat-sheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to this page :sweat_smile:
+
+Finally, the [basic writting and formatting syntax] guide on GitHub is also a great document to remember most frenquently used markdown syntax.
+
