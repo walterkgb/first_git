@@ -23,3 +23,5 @@ A code block needs 3 backticks at the beginning and at the end.
 [You can always check google for more info](http://google.com)
 
 [This is a neat cheatsheet with the most common styles](https://commonmark.org/help/)
+
+[The GitHub flavored Markdown Spec](https://github.github.com/gfm/) is an amazing document, an example on how to write a specification.o
