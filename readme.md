@@ -21,3 +21,5 @@ A code block needs 3 backticks at the beginning and at the end.
 ![Good Job](https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif)
 
 [You can always check google for more info](http://google.com)
+
+[This is a neat cheatsheet with the most common styles](https://commonmark.org/help/)
