@@ -18,6 +18,10 @@ A code block needs 3 backticks at the beginning and at the end.
 
 > Blockquotes just need a "bigger than" symbol.
 
+<<<<<<< HEAD
 ![Good Job](https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif)
+=======
+![Good Job](https://giphy.com/embed/mGK1g88HZRa2FlKGbz)
+>>>>>>> b7229b3e13f2aaa6587480e49f010fde053afacb
 
 [You can always check google for more info](http://google.com)
